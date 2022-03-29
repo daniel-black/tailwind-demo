@@ -64,8 +64,8 @@ Similar to how a programming language defines a set of primitives like `int`, `s
 
 ### Lets see how we can do this with Tailwind CSS!
 
-[Bare bones HTML](https://play.tailwindcss.com/SZPJwaeqVl)
-[Styled component](https://play.tailwindcss.com/bqVqnelpnR)
+[Bare bones HTML](https://play.tailwindcss.com/6QVsPG2z0I)
+[Styled component](https://play.tailwindcss.com/tKhde0Z6mk)
 
 
 **Key points**
