@@ -1,16 +1,18 @@
 <script>
 import AppHeader from './components/AppHeader.vue'
+import CampCard from './components/CampCard.vue'
 
 export default {
   components: {
-    AppHeader
+    AppHeader,
+    CampCard
   }
 }
 </script>
 
 <template>
   <AppHeader />
-  <fa class="coffee" />
+  <CampCard />
   
 </template>
 
