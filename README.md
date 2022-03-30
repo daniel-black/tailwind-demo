@@ -92,3 +92,5 @@ Just add `class="animate-pulse"` to the div with no classes
 
 Dark Mode (change mode on your device)
 [Finished](https://play.tailwindcss.com/3ag4SpnMH0)
+
+[Animated Notification](https://play.tailwindcss.com/khqX4PVxmN)
