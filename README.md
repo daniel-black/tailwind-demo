@@ -100,3 +100,5 @@ Dark Mode (change mode on your device)
 [Responsive Card](https://play.tailwindcss.com/T3bloxI4z8)
 
 [Responsive Cards](https://play.tailwindcss.com/V6nOlDpq4U)
+
+[Lite clone of linear.app](https://play.tailwindcss.com/aj14ktzX7I)
