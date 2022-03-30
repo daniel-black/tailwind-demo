@@ -95,4 +95,4 @@ Dark Mode (change mode on your device)
 
 [Animated Notification](https://play.tailwindcss.com/khqX4PVxmN)
 
-[Not sure what to call this but its cool when you hover](https://play.tailwindcss.com/0iBxAEB0oH)
+[Not sure what to call this but its cool when you hover](https://play.tailwindcss.com/h1dydlAK1x)
