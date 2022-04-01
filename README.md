@@ -1,6 +1,8 @@
 # Tailwind CSS
 - CSS library 
 - Provides a constrained set of primitive utilities
+- [Main Docs](https://tailwindcss.com/)
+- [Installation Docs](https://tailwindcss.com/docs/installation/framework-guides)
 
 Similar to how a programming language defines a set of primitives like `int`, `string`, or `boolean` that allow you to compose pieces of logic into a program, Tailwind gives you a set of styling utilities that can be applied to HTML elements as classes.
 
