@@ -77,21 +77,22 @@ Similar to how a programming language defines a set of primitives like `int`, `s
 
 ---
 
-### This kinda feels like inline styling??
+### Ability to apply styles conditionally just be prefixing classes gives you much more flexibility than inline styles
 We can do animations just by applying a class or two
 
 Lets make a button pretty and animate the hover effect 
 
 [Button Start](https://play.tailwindcss.com/y6Bo6w4cP3?layout=horizontal)
+
 [Button Final](https://play.tailwindcss.com/ZdZrmaMi6k?layout=horizontal)
 
 
-Card Loading animation
-[Starter](https://play.tailwindcss.com/qvoocbtOom)
-Just add `class="animate-pulse"` to the div with no classes
 
-Dark Mode (change mode on your device)
-[Finished](https://play.tailwindcss.com/3ag4SpnMH0)
+[Card Loading animation](https://play.tailwindcss.com/qvoocbtOom)
+Just add `class="animate-pulse"` to the div with no classes
+ 
+[Dark Mode](https://play.tailwindcss.com/3ag4SpnMH0)
+(change mode on your device)
 
 [Animated Notification](https://play.tailwindcss.com/khqX4PVxmN)
 
@@ -102,3 +103,5 @@ Dark Mode (change mode on your device)
 [Responsive Cards](https://play.tailwindcss.com/V6nOlDpq4U)
 
 [Lite clone of linear.app](https://play.tailwindcss.com/3X8XP5eBgc)
+
+[actual linear website](https://www.linear.app)
